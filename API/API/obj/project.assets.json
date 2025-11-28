@@ -1606,23 +1606,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Henrique Rossin\\.nuget\\packages\\": {},
+    "C:\\Users\\Felipe L Moreira\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Henrique Rossin\\source\\repos\\DevLearningAPI\\DevLearningDapperAPI\\API\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Henrique Rossin\\source\\repos\\DevLearningAPI\\DevLearningDapperAPI\\API\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Henrique Rossin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Henrique Rossin\\source\\repos\\DevLearningAPI\\DevLearningDapperAPI\\API\\API\\obj\\",
+      "projectPath": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\Felipe L Moreira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Henrique Rossin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Felipe L Moreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1631,6 +1631,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

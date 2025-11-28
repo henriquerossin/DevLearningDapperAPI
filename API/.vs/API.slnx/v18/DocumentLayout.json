@@ -1,10 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Henrique Rossin\\source\\repos\\DevLearningAPI\\DevLearningDapperAPI\\API\\",
+  "WorkspaceRootPath": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\henrique rossin\\source\\repos\\devlearningapi\\devlearningdapperapi\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\felipe l moreira\\source\\repos\\devlearningdapperapi\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\felipe l moreira\\source\\repos\\devlearningdapperapi\\api\\api\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\felipe l moreira\\source\\repos\\devlearningdapperapi\\api\\api\\repositories\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\repositories\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\felipe l moreira\\source\\repos\\devlearningdapperapi\\api\\api\\controllers\\interfaces\\icoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\interfaces\\icoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\felipe l moreira\\source\\repos\\devlearningdapperapi\\api\\api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\felipe l moreira\\source\\repos\\devlearningdapperapi\\api\\api\\models\\dtos\\course\\courserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\models\\dtos\\course\\courserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\felipe l moreira\\source\\repos\\devlearningdapperapi\\api\\api\\models\\dtos\\course\\coursereponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\models\\dtos\\course\\coursereponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\felipe l moreira\\source\\repos\\devlearningdapperapi\\api\\api\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\felipe l moreira\\source\\repos\\devlearningdapperapi\\api\\api\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\felipe l moreira\\source\\repos\\devlearningdapperapi\\api\\api\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\felipe l moreira\\source\\repos\\devlearningdapperapi\\api\\api\\database\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\database\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 553,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,16 +65,150 @@
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Controllers\\Interfaces\\ICourseController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\Interfaces\\ICourseController.cs",
+              "ToolTip": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Controllers\\Interfaces\\ICourseController.cs",
+              "RelativeToolTip": "API\\Controllers\\Interfaces\\ICourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:42:17.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "API\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:42:02.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Repositories\\Interfaces\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\Interfaces\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Repositories\\Interfaces\\ICourseRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\Interfaces\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:40:47.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:40:02.273Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique Rossin\\source\\repos\\DevLearningAPI\\DevLearningDapperAPI\\API\\API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\Henrique Rossin\\source\\repos\\DevLearningAPI\\DevLearningDapperAPI\\API\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T19:31:30.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Models\\DTOs\\Course\\CourseRequestDTO.cs",
+              "RelativeDocumentMoniker": "API\\Models\\DTOs\\Course\\CourseRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Models\\DTOs\\Course\\CourseRequestDTO.cs",
+              "RelativeToolTip": "API\\Models\\DTOs\\Course\\CourseRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:41:42.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseReponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Models\\DTOs\\Course\\CourseReponseDTO.cs",
+              "RelativeDocumentMoniker": "API\\Models\\DTOs\\Course\\CourseReponseDTO.cs",
+              "ToolTip": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Models\\DTOs\\Course\\CourseReponseDTO.cs",
+              "RelativeToolTip": "API\\Models\\DTOs\\Course\\CourseReponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:41:29.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\Interfaces\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "API\\Services\\Interfaces\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:41:08.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Services\\CourseService.cs",
+              "RelativeToolTip": "API\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:40:28.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Models\\Course.cs",
+              "RelativeToolTip": "API\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:39:46.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Database\\DBConnectionFactory.cs",
+              "RelativeDocumentMoniker": "API\\Database\\DBConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Felipe L Moreira\\source\\repos\\DevLearningDapperAPI\\API\\API\\Database\\DBConnectionFactory.cs",
+              "RelativeToolTip": "API\\Database\\DBConnectionFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAywAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:52:12.25Z",
               "EditorCaption": ""
             }
           ]
